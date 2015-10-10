@@ -1,6 +1,7 @@
-- name: Bill Mills
-  affiliation: Mozilla Science Lab
-  github: BillMills
+- name: Matt Burton
+  affiliation: University Library System
+  github: mcburton
   interests:
-    - Programming
-    - Open Science
+    - Digital Humanties
+    - Computational Social Science
+    - Open Scholarship
